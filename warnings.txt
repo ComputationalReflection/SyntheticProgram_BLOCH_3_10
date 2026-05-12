@@ -1,0 +1,16 @@
+BLOCH-3.10;B3.java;6;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.B3
+BLOCH-3.10;ClassNoToString.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.ClassNoToString
+BLOCH-3.10;EnumNoToString.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.EnumNoToString
+BLOCH-3.10;ClassReturned.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.ClassReturned
+BLOCH-3.10;NC_ChildMisleading.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.NC_ChildMisleading
+BLOCH-3.10;NC_PlusEquals.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.NC_PlusEquals
+BLOCH-3.10;NC_Printf.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.NC_Printf
+BLOCH-3.10;NC_Println.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.NC_Println
+BLOCH-3.10;NC_StringAdd.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.NC_StringAdd
+BLOCH-3.10;NC_StringBuilderAppend.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.NC_StringBuilderAppend
+BLOCH-3.10;NC_StringConcatenation.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.NC_StringConcatenation
+BLOCH-3.10;NC_StringValueOf.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.NC_StringValueOf
+BLOCH-3.10;NC_WrongName.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.NC_WrongName
+BLOCH-3.10;NC_WrongSignatureParam.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.NC_WrongSignatureParam
+BLOCH-3.10;NonCompliantConcatenation.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.NonCompliantConcatenation
+BLOCH-3.10;NonCompliantImplicit.java;3;TYPE_DEC;es.uniovi.reflection.bloch_3_10.noncompliant.NonCompliantImplicit
